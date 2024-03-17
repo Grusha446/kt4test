@@ -1,0 +1,2 @@
+2024-03-17 20:47:52,980 - INFO - Поиск элемента: ('css selector', 'div.container:nth-child(3) nav.navbar div.collapse.navbar-collapse.navbar-ex1-collapse ul.nav.navbar-nav li.dropdown:nth-child(1) > a.dropdown-toggle')
+2024-03-17 20:47:53,013 - INFO - Поиск элемента: ('css selector', 'div.container:nth-child(3) nav.navbar div.collapse.navbar-collapse.navbar-ex1-collapse ul.nav.navbar-nav li.dropdown:nth-child(1) div.dropdown-menu div.dropdown-inner ul.list-unstyled li:nth-child(1) > a:nth-child(1)')

@@ -1,0 +1,1 @@
+2024-03-17 20:48:19,630 - INFO - Поиск элемента: ('css selector', 'div.container:nth-child(4) div.row div.col-sm-9 div.row:nth-child(3) div.product-layout.product-grid.col-lg-4.col-md-4.col-sm-6.col-xs-12 div.product-thumb div:nth-child(2) div.button-group > button:nth-child(1)')

@@ -1,0 +1,5 @@
+[32mINFO    [0m test_submit_review:baseObject.py:13 Поиск элемента: ('xpath', "//a[contains(text(),'Отзывов (0)')]")
+[32mINFO    [0m test_submit_review:baseObject.py:13 Поиск элемента: ('id', 'input-name')
+[32mINFO    [0m test_submit_review:baseObject.py:13 Поиск элемента: ('id', 'input-review')
+[32mINFO    [0m test_submit_review:baseObject.py:13 Поиск элемента: ('css selector', 'div.container:nth-child(4) div.row div.col-sm-12 div.row:nth-child(1) div.col-sm-8 div.tab-content div.tab-pane.active:nth-child(2) form.form-horizontal div.form-group.required:nth-child(5) div.col-sm-12 > input:nth-child(6)')
+[32mINFO    [0m test_submit_review:baseObject.py:13 Поиск элемента: ('id', 'button-review')
